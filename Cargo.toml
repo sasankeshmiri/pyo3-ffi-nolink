@@ -16,7 +16,6 @@ name = "pyo3-ffi"
 version = "0.28.2"
 authors = ["PyO3 Project and Contributors <https://github.com/PyO3>"]
 build = "build.rs"
-links = "python"
 autolib = false
 autobins = false
 autoexamples = false
